@@ -1,0 +1,45 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+venv/
+env/
+.env/
+.venv/
+
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+*.txt
+*.zip
+*.csv
+*.tsv
+dataset.zip
+household_power_consumption.txt
+
+data/
+vhi_data/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.suo
+*.user
+```
+
+Внизу натисни **Commit changes** → **Commit changes**
+
+---
+
+Репозиторій тепер виглядає так:
+```
+ZPAD-2026/
+├── .gitignore
+├── README.md
+├── laba2_par1.ipynb
+└── laba2_par2.ipynb
