@@ -11,9 +11,9 @@
 ├── lab_2/
 │   ├── README.md
 │   ├── .gitignore
-│   ├── requirements.txt
-│   ├── laba2part1.ipynb   
-│   └── laba2part2.ipynb   
+│   ├── laba2part1.ipynb
+│   ├── laba2part2.ipynb   
+│   └── requirements.txt 
 └── README.md
 ```
 
